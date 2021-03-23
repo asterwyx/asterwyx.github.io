@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://asterwyx.cn/categories/</loc>
+    <loc>https://asterwyx.github.io/categories/</loc>
   </url><url>
-    <loc>http://asterwyx.cn/</loc>
+    <loc>https://asterwyx.github.io/</loc>
   </url><url>
-    <loc>http://asterwyx.cn/tags/</loc>
+    <loc>https://asterwyx.github.io/tags/</loc>
   </url>
 </urlset>
