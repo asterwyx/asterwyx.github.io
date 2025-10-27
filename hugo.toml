@@ -1,0 +1,39 @@
+baseURL = "https://asterwyx.github.io/"
+theme = "LoveIt"
+title = "Home of Astrea"
+languageCode = "en"
+languageName = "English"
+hasCJKLanguage = true
+enableEmoji = true
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = "page"
+
+[params]
+  title = "Home of Astrea"
+  description = "Welcome to Home of Astrea."
+  [params.author]
+    name = "Astrea"
+    email = "yixue.wang@outlook.com"
+  [params.header]
+    desktopMode = "auto"
+    mobileMode = "auto"
+    [params.header.title]
+      name = "Home of Astrea"
+      typeit = false
+  [params.home]
+    rss = 10
+    [params.home.profile]
+      enable = true
+      gravatarEmail = "yixue.wang@outlook.com"
+      subtitle = "Welcome to Home of Astrea."
+      typeit = true
+      social = true
+  [params.footer]
+    enable = true
+    hugo = true
+    copyright = true
+    author = true
+    since = 2025
